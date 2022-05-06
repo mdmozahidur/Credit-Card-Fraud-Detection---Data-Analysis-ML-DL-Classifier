@@ -32,3 +32,5 @@ To run this project, you will need to add the following python packages.
 ## Dataset
 
 creditcard.csv - Original dataset. (It will take around 10 hours to run)
+[Dataset Link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
